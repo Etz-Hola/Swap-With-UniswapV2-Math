@@ -1,4 +1,4 @@
-# SimpleSwap Smart Contract
+# Qadir Adesoye SimpleSwap Smart Contract
 
 ## Overview
 The `SimpleSwap` contract is a decentralized token swap mechanism that allows users to swap between two ERC-20 tokens with an automated liquidity pool. It uses a constant product market maker formula similar to Uniswap V2 and includes a 0.3% fee on swaps.
